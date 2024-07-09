@@ -4,5 +4,5 @@
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](https://lenguajehtml.com/) - Lenguaje de marcado Html
-* [ROME](https://lenguajecss.com/) - Lenguaje de estilos Css
+* [Html](https://lenguajehtml.com/) - Lenguaje de marcado Html
+* [Css](https://lenguajecss.com/) - Lenguaje de estilos Css
